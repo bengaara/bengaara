@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some cool spring projects
-- 🌱 I’m currently tinkering with kotlin in spring
-- 🤔 I’m looking to give back to  the community on node projects 
-- 📫 Have a cool project in node or just something supercool: ... reach out to me :-)
+- 🔭 I’m currently working on some cool spring projects and tinkering with kotlin
+- 🤔 I’m looking to give back to the community on something open source
+- 📫 Have  something supercool: ... reach out to me :-)
 <!--
 **bengaara/bengaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
