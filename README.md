@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some cool spring projects and tinkering with kotlin
+- 🔭 I’m currently working on some cool spring projects and tinkering with react/node
 - 🤔 I’m looking to give back to the community on something open source
 - 📫 Have  something supercool: ... reach out to me :-)
 <!--
